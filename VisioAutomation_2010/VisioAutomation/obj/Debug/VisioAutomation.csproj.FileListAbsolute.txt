@@ -1,0 +1,16 @@
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\VisioAutomation.dll.config
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\VisioAutomation.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\VisioAutomation.pdb
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\EntityFramework.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\Microsoft.Msagl.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\Microsoft.Office.Interop.Visio.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\System.Management.Automation.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\stdole.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\EntityFramework.xml
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\obj\Debug\VisioAutomation.csproj.ResolveComReference.cache
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\obj\Debug\VisioAutomation.Properties.Resources.resources
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\obj\Debug\VisioAutomation.csproj.GenerateResource.Cache
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\obj\Debug\VisioAutomation.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomation\obj\Debug\VisioAutomation.pdb

@@ -1,0 +1,3 @@
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\TestVisioAutomation\obj\Debug\TestVisioAutomation.csprojResolveAssemblyReference.cache
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\TestVisioAutomation\obj\Debug\TestVisioAutomation.Properties.Resources.resources
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\TestVisioAutomation\obj\Debug\TestVisioAutomation.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\VisioAutomationSamples.exe.config
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\VisioAutomationSamples.exe
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\VisioAutomationSamples.pdb
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\EntityFramework.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\EntityFramework.SqlServer.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\Microsoft.Office.Interop.Visio.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\VisioAutomation.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\Microsoft.Msagl.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\stdole.dll
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\VisioAutomation.pdb
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\EntityFramework.xml
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\bin\Debug\EntityFramework.SqlServer.xml
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\obj\Debug\VisioAutomationSamples.csprojResolveAssemblyReference.cache
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\obj\Debug\VisioAutomationSamples.FormSampleRunner.resources
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\obj\Debug\VisioAutomationSamples.csproj.GenerateResource.Cache
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\obj\Debug\VisioAutomationSamples.exe
+D:\Azure Stuff\VisioAutomation-master\VisioAutomation_2010\VisioAutomationSamples\obj\Debug\VisioAutomationSamples.pdb
